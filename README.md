@@ -1,2 +1,7 @@
 # infovae-seminar
-LMU - Advances in Variational Autoencoders - InfoVAE Repository
+
+This repository accompanies our LMU seminar on InfoVAE and its extensions. It includes:
+
+- **Code** for training and evaluating InfoVAE variants, alternative divergences (MMD, Stein, Sinkhorn, Cramér, χ²), adaptive hyperparameter schedulers, and lightweight VAEs (Free‑Bits, BN‑VAE, ContrastiveAE).  
+- **Figures** demonstrating posterior–prior alignment (MMD), reconstruction quality, semi‑supervised error, and training time across latent dimensions.  
+
